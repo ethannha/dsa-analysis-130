@@ -1,0 +1,5 @@
+string1*Jett: 'Hello.'
+string2*Jett: 'Watch this!'
+string3*Jett: 'What are you looking at?'
+string4*Jett: 'Sorry.'
+string5*Jett: 'Okay then.'
